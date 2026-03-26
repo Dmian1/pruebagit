@@ -13,6 +13,7 @@ namespace prueba
         {
             {
                 string mensaje = "hola mundo";
+                int var = 0;
             }
 
         }
